@@ -1,6 +1,6 @@
 {
-	"author": "Chris Lawton",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Chris Lawton",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
